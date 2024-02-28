@@ -10,7 +10,8 @@
           { "choice": "Peter Parker", "is_correct": true },
           { "choice": "Tony Stark", "is_correct": false },
           { "choice": "Bruce Wayne", "is_correct": false },
-          { "choice": "Clark Kent", "is_correct": false }
+          { "choice": "Clark Kent", "is_correct": false },
+          { "choice": "acme", "is_correct": false }
         ]
       },
       {
